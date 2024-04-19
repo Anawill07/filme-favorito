@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgba(245, 230, 230, 0.87);
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    height: 90px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+section{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    
+}
+
+.img img { 
+    width: 800px;
+    height: 400px;
+}
+
+.img{
+    text-align: center;
+}
+
